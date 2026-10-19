@@ -12,7 +12,7 @@ Start with “Show my authorized organizations and available capabilities.” Th
 
 ## Verification status
 
-This candidate has not been submitted, approved or listed in the Kiro registry. Native Kiro CLI 2.32.0 installation and Power activation were verified on October 19, 2026. Authenticated MCP discovery and business-tool calls remain unverified: native registration is currently rejected with invalid_redirect_uri for the client's localhost callback. No beta/preview eligibility attestation has been made for the hosted service. The three skill files match public agent kit v0.2.2 byte-for-byte. Both manifests pass the official Agent Plugins Draft2020-12 schemas. These checks establish package structure and native activation, not an authenticated integration.
+This candidate has not been submitted, approved or listed in the Kiro registry. Native Kiro CLI 2.32.0 installation and Power activation were verified on October 19, 2026. The native localhost OAuth registration blocker was fixed in the development issuer: Kiro now reaches Shuffll's organization and permission consent page. Authenticated MCP discovery and business-tool calls remain unverified pending approval of a synthetic reviewer connection. No beta/preview eligibility attestation has been made for the hosted service. The three skill files match public agent kit v0.2.2 byte-for-byte. Both manifests pass the official Agent Plugins Draft2020-12 schemas. These checks establish package structure, native activation and OAuth registration, not an authenticated integration.
 
 ## Links and support
 
