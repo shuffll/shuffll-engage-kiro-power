@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "shuffll-engage",
+  "version": "0.2.2",
+  "description": "Create personalized video campaigns based on customer interests, behaviors and audience segments through the Shuffll Engage API and MCP.",
+  "author": {
+    "name": "Shuffll",
+    "email": "isaac@shuffll.com",
+    "url": "https://engage.shuffll.com"
+  },
+  "keywords": [
+    "shuffll",
+    "shuffll engage",
+    "personalized video",
+    "video campaigns",
+    "video personalization"
+  ],
+  "license": "MIT",
+  "homepage": "https://api-docs.shuffll.com/engage",
+  "repository": "https://github.com/shuffll/shuffll-engage-kiro-power"
+}
